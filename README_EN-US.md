@@ -18,7 +18,7 @@ Instead of starting with the basic tutorial level, you are thrown straight into 
 ## 📥 Installation
 
 1. Make sure you have a clean, installed copy of *Ballance*.
-2. Download the latest release from the [Releases](../../releases) section.
+2. Download the latest release from the [Releases](https://github.com/bndkabel-pixel/Ballance-Reversed/releases) section.
 3. Extract and copy the files into your main Ballance installation folder, overwriting when prompted.
 4. Launch the game and enjoy the reverse challenge!
 
